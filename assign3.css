@@ -1,0 +1,79 @@
+.index {
+	width: 1000px;
+	margin: auto;
+}
+
+.container{
+	vertical-align: bottom;
+	overflow: auto;
+}
+
+.titleArea {
+	vertical-align: top;
+	width: 300px;
+	float: right;
+	padding-right: 10px;
+	overflow:auto;
+}
+
+.threeColumnArea{
+	height: 50%;
+	width: 100%;
+}
+
+.menuText{
+	text-align: center;
+}
+
+.leftMenu {
+	vertical-align: top;
+	padding: 10px;
+	height: 500px;
+	width: 150px;
+	border-style: solid;
+	border-width: thin;
+	border-color: green;
+	background-color: blue;
+	color: white;
+	margin: 10px;
+}
+
+.centerImage{
+	border-style: solid;
+	border-width: 5px;
+	border-color: red;
+	margin-left: 20px;
+	margin-right: 20px;
+	float: right;
+}
+
+.centerBox{
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+	text-align: justify;
+	vertical-align: top;
+	width: 300px;
+	height: 500px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.rightMenu{
+	vertical-align: top;
+	background-color: orange;
+	color: white;
+	padding: 10px;
+	border-style: solid;
+	border-color: red;
+	border-width: thin;
+	width: 150px;
+}
+
+.footBox{
+	border-style: dotted;
+	vertical-align: top;
+	padding-bottom: 75px;
+	padding-right:800px;
+	border-color:green;
+}
